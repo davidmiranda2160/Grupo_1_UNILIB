@@ -2,4 +2,4 @@
 
 Integrantes: David Miranda
              Angela Anhuaman
-             Almendra Gonzales
+             Almendra Gonzalez
